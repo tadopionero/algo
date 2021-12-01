@@ -13,7 +13,7 @@ func max(arr []int) int {
 	return max
 }
 
-func main() {
+func test_max() {
 	arr := []int{1, 2, 5, 4, 6, 3}
 	max(arr)
 }
